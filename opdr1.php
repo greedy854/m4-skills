@@ -16,3 +16,9 @@
  </div>
  <button type="submit">Verzenden</button>
 </form>
+<?php
+echo "<h2>Hallo ik ben sem</h2>";
+echo "Hello world!<br>";
+echo "I'm about to learn PHP!<br>";
+?>
+<?php
